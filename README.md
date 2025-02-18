@@ -13,3 +13,6 @@ Links to the main parts of the project:
 - [Events Generator](https://github.com/vukolov/events_generator)
 - [Events Interface](https://github.com/vukolov/events_gateway)
 - [Events Preprocessor](https://github.com/vukolov/events_preprocessor)
+- [Events Analyser](https://github.com/vukolov/events_analyser)
+- [Events Model Tuner](https://github.com/vukolov/events_model_tuner)
+
