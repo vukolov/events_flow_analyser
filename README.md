@@ -15,4 +15,4 @@ Links to the main parts of the project:
 - [Events Preprocessor](https://github.com/vukolov/events_preprocessor)
 - [Events Analyser](https://github.com/vukolov/events_analyser)
 - [Events Model Tuner](https://github.com/vukolov/events_model_tuner)
-
+- [Configuration Client](https://github.com/vukolov/efa_cli)
